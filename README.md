@@ -1,6 +1,6 @@
 # ML Projects
 
-Welcome to the `machine-learning-projects`  repository! This repository hosts a collection of my machine learning projects, each showcasing different techniques and applications in the field. Below you’ll find a brief description of each project, along with links to their individual directories.
+Welcome to the `machine-learning-projects`  repository !
 
 ## Projects
 
